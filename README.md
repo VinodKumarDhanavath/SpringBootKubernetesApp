@@ -55,7 +55,7 @@ Related Repository
 EC2 Build Server Setup: AWS EC2 build server configuration.
 
 Learn More
-Check out my [project report]([Insert report link]) for detailed documentation, screenshots (e.g., Snyk results, kubectl outputs, Docker Hub), and visualizations.
+Check out my [project report]([https://drive.google.com/drive/folders/1x491xO3BcEop-Yp4IcHtM4xdf7mY9b22?usp=sharing]) for detailed documentation, screenshots (e.g., Snyk results, kubectl outputs, Docker Hub), and visualizations.
 Author: Vinod Kumar Dhanavath
 Portfolio: [Insert portfolio link, if applicable]
 LinkedIn: [Insert LinkedIn profile link, if desired]
